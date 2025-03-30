@@ -6,7 +6,6 @@ layout: single
 author_profile: false
 
 title: "GandALF 2025"
-
 excerpt: "Sixteenth International Symposium on 
 <br> Games, Automata, Logics, and Formal Verification
 <br><br> 15-18 September 2025, ??, Malta"
