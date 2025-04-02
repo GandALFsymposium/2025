@@ -7,5 +7,5 @@ main:
     url: /venue/
   - title: "Call for Papers"
     url: /cfp/
-  - title: "Committees"
-    url: /committees/
+#  - title: "Committees"
+#    url: /committees/
