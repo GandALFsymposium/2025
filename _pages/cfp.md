@@ -20,7 +20,7 @@ at the following address:
 - Acceptance notification: 4 July 2025
 - Camera-ready deadline: 25 July 2025
 - Early registration deadline: 25 July 2025
-- Conference dates: 19-21 June 2024
+- Conference dates: 15-18 September 2025
 
 All deadlines are [AoE](https://time.is/Anywhere_on_Earth).
 
@@ -38,4 +38,4 @@ Computer Science (GandALF 2010),
 Theoretical Computer Science (GandALF 2011 and 2012), 
 Information and Computation (GandALF 2013, 2014, 2016, 2017, 2018, 2019, and 2020), 
 Acta Informatica (GandALF 2015) and 
-Logical Methods in Computer Science (GandALF 2021, 2022, 2023, and 2023).
+Logical Methods in Computer Science (GandALF 2021, 2022, 2023, and 2024).
