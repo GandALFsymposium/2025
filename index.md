@@ -8,7 +8,7 @@ title: "GandALF 2025"
 
 excerpt: "Sixteenth International Symposium on 
 <br> Games, Automata, Logics, and Formal Verification
-<br><br> 15-18 September 2025, ??, Malta"
+<br><br> 15-18 September 2025, Valletta, Malta"
 header:
   overlay_image: /assets/images/micaela-parente--Jd2XVXLQ0U-unsplash.jpg
   overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
@@ -17,8 +17,8 @@ header:
 
 Welcome to the website of **GandALF 2025**, the 
 *Sixteenth International Symposium on Games, Automata, Logics, and Formal Verification*, 
-that will take place in ??, Malta, on 15-18 September 2025. 
-The conference will be hosted by ?? and it is organized by ??.
+that will take place in Valletta, Malta, on 15-18 September 2025. 
+The conference will be hosted by [University of Malta](https://www.um.edu.mt/) and it is organized by the [Department of Computer Science](https://www.um.edu.mt/ict/cs/).
 
 The aim of GandALF 2025 is to bring together researchers from academia and industry 
 who are actively working in the fields of Games, Automata, Logics, and Formal Verification. 
