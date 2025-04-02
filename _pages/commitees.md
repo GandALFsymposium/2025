@@ -6,7 +6,7 @@ title: "Committees"
 ## Programme Committee
 
 - Giorgio Bacci (University of Aalborg, Denmark) - co-chair
-- Andrian Francalanza (University of Malta) - co-chairs
+- Adrian Francalanza (University of Malta) - co-chairs
 
 - Sandra Alves (University of Porto, Portugal)
 - Elli Anastasiadi (Aalborg University, Denmark)
@@ -42,6 +42,6 @@ title: "Committees"
 - Martin Zimmermann (Aalborg University, Denmark)
 
 ## Organising Committee
-- Andrian Francalanza (University of Malta)
+- Adrian Francalanza (University of Malta)
 - ??
 
