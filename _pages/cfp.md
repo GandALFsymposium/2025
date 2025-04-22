@@ -26,11 +26,9 @@ All deadlines are [AoE](https://time.is/Anywhere_on_Earth).
 
 ## Publication
 The proceedings will be published by 
-[Electronic Proceedings](https://cgi.cse.unsw.edu.au/~eptcs/) 
-in Theoretical Computer Science. Authors of selected papers 
-will be invited to submit a revised version of their work to
-a special issue of 
-[Logical Methods in Computer Science](https://lmcs.episciences.org/).
+[Electronic Proceedings in Theoretical Computer Science](https://cgi.cse.unsw.edu.au/~eptcs/). 
+Authors of selected papers will be invited to submit a revised version of their work to
+a special issue of [Logical Methods in Computer Science](https://lmcs.episciences.org/).
 
 The previous editions of GandALF already led to special 
 issues of the International Journal of Foundations of 
