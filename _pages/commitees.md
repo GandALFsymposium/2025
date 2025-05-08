@@ -8,27 +8,24 @@ title: "Committees"
 - Giorgio Bacci (University of Aalborg, Denmark) - co-chair
 - Adrian Francalanza (University of Malta) - co-chairs
 
-- Sandra Alves (University of Porto, Portugal)
 - Elli Anastasiadi (Aalborg University, Denmark)
-- Giovanni Bernardi (Université Paris Diderot, France)
+- Giovanni Bernardi (Université Paris Diderot - IRIF, France)
 - Udi Boker (Reichman University, Israel)
-- Patricia Bouyer (Université Paris-Saclay CNRS, France)
-- Angata Ciabattoni (Vienna University of Technology, Austria)
+- Sougata Bose (University of Mons, Belgium)
 - Laure Daviaud (University of East Anglia, UK)
+- Abhishek De (University of Birmingham, England)
+- Angelo Ferrando (University of Modena and Reggio Emilia, Italy)
+- Mohammed Foughali (Université Paris Cité - IRIF, France)
 - Silvia Ghilezan (University of Novi Sad, Serbia)
+- Mirco Giacobbe (University of Birmingham, England)
 - Daniele Gorla (La Sapienza Università Roma, Italy)
 - Ross Horne (University of Strathclyde, Scotland)
-- Ryan Kavanagh (Université du Québec, Canada)
-- Karoliina Lehtinen (CNRS, Aix-Marseille Université LIS, France)
+- Ryan Kavanagh (Université du Québec à Montréal, Canada)
 - Marina Lenisa (University of Udine, Italy)
 - Tim S. Lyon (Technische Universität Dresden, Germany)
-- Sonia Marin (University of Birmingham, UK)
-- Mohammad Reza	Mousavi	(King’s College London, UK)
-- Aniello Murano (Università degli Studi di Napoli Federico II, Italy)
-- Anca Muscholl (Université de Bordeaux, France)
-- Pietro Sala (University of Verona, Italy)
+- Konstantinos Mamouras (University of Birmingham, UK)
+- Mohammad Reza	Mousavi	(Rice University, USA)
 - Ocan Sankur (Université Rennes CNRS, France)
-- Kathrin Stark (Heriot-Watt University, Scotland)
 - Sarah Winkler (Free University of Bolzano, Italy)
 - Sarah Winter (Université Paris Cité, France)
 
@@ -43,5 +40,4 @@ title: "Committees"
 
 ## Organising Committee
 - Adrian Francalanza (University of Malta)
-- ??
 
