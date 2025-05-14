@@ -17,7 +17,7 @@ header:
 
 Welcome to the website of **GandALF 2025**, the 
 *Sixteenth International Symposium on Games, Automata, Logics, and Formal Verification*, 
-that will take place in Valletta, Malta, on 15-18 September 2025. 
+that will take place in Valletta, Malta, on 16-17 September 2025. 
 The conference will be hosted by [University of Malta](https://www.um.edu.mt/) and it is organized by the [Department of Computer Science](https://www.um.edu.mt/ict/cs/).
 
 The aim of GandALF 2025 is to bring together researchers from academia and industry 
