@@ -52,3 +52,10 @@ The topics covered by the conference include, but are not limited to, the follow
 - Run-time Verification and Testing
 - Specification and Verification of Finite and Infinite-state Systems
 - Synthesis
+
+# Invited speakers
+<div class="author__avatar">
+      <a href="https://mmistakes.github.io/minimal-mistakes/">
+        <img src="/assets/bio-photo.jpg" alt="Test" itemprop="image" class="u-photo">
+      </a>
+</div>
