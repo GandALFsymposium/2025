@@ -57,5 +57,4 @@ The topics covered by the conference include, but are not limited to, the follow
 
 |<img src="{{ site.url }}{{ site.baseurl }}/assets/images/radu.png" alt="Radu Mardare" width="200"/>|<img src="{{ site.url }}{{ site.baseurl }}/assets/images/simon.png" alt="Simon Fowler" width="200"/>|
 |    :----:   |    :----:   |
-|[Radu Mardare](https://www.macs.hw.ac.uk/~rm4023/)|[Simon Fowler](https://simonjf.com/)|
-|Heriot-Watt University|University of Glasgow|
+|[Radu Mardare](https://www.macs.hw.ac.uk/~rm4023/), *Heriot-Watt University*|[Simon Fowler](https://simonjf.com/), *University of Glasgow*|
