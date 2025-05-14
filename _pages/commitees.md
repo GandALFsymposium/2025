@@ -25,7 +25,7 @@ title: "Committees"
 - Tim S. Lyon (Technische Universität Dresden, Germany)
 - Konstantinos Mamouras (University of Birmingham, UK)
 - Mohammad Reza	Mousavi	(Rice University, USA)
-- Ocan Sankur (Université Rennes - CNRS, France)
+- Ocan Sankur (Mitsubishi Electric R&D Centre Europe, France)
 - Sarah Winkler (Free University of Bolzano, Italy)
 - Sarah Winter (Université Paris Cité - IRIF, France)
 
