@@ -54,8 +54,8 @@ The topics covered by the conference include, but are not limited to, the follow
 - Synthesis
 
 # Invited speakers
-<div class="author__avatar">
-      <a href="https://mmistakes.github.io/minimal-mistakes/">
-        <img src="/assets/bio-photo.jpg" alt="Test" itemprop="image" class="u-photo">
-      </a>
-</div>
+
+|<img src="/assets/radu.png" alt="Radu Mardare" width="200"/>|<img src="/assets/simon.png" alt="Simon Fowler" width="200"/>|
+|    :----:   |    :----:   |
+|[Radu Mardare](https://www.macs.hw.ac.uk/~rm4023/)|[Simon Fowler](https://simonjf.com/)|
+|Heriot-Watt University|University of Glasgow|
