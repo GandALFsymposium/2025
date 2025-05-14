@@ -8,7 +8,7 @@ title: "GandALF 2025"
 
 excerpt: "Sixteenth International Symposium on 
 <br> Games, Automata, Logics, and Formal Verification
-<br><br> 15-18 September 2025, Valletta, Malta"
+<br><br> 16-17 September 2025, Valletta, Malta"
 header:
   overlay_image: /assets/images/micaela-parente--Jd2XVXLQ0U-unsplash.jpg
   overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
