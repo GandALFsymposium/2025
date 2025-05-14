@@ -55,6 +55,8 @@ The topics covered by the conference include, but are not limited to, the follow
 
 # Invited speakers
 
-|<img src="{{ site.url }}{{ site.baseurl }}/assets/images/radu.png" alt="Radu Mardare" width="200"/>|<img src="{{ site.url }}{{ site.baseurl }}/assets/images/simon.png" alt="Simon Fowler" width="200"/>|
-|    :----:   |    :----:   |
-|[Radu Mardare](https://www.macs.hw.ac.uk/~rm4023/), *Heriot-Watt University*|[Simon Fowler](https://simonjf.com/), *University of Glasgow*|
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/radu.png" alt="Radu Mardare" width="100"/>
+[Radu Mardare](https://www.macs.hw.ac.uk/~rm4023/) (Heriot-Watt University, Scotland)
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/simon.png" alt="Simon Fowler" width="100"/>
+[Simon Fowler](https://simonjf.com/) (University of Glasgow, Scotland)
