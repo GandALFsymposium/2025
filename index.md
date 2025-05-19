@@ -52,3 +52,11 @@ The topics covered by the conference include, but are not limited to, the follow
 - Run-time Verification and Testing
 - Specification and Verification of Finite and Infinite-state Systems
 - Synthesis
+
+# Invited speakers
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/radu.png" alt="Radu Mardare" width="100"/>
+&emsp;[Radu Mardare](https://www.macs.hw.ac.uk/~rm4023/) (Heriot-Watt University, Scotland)
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/simon.png" alt="Simon Fowler" width="100"/>
+&emsp;[Simon Fowler](https://simonjf.com/) (University of Glasgow, Scotland)
