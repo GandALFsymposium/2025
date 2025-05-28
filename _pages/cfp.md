@@ -16,7 +16,7 @@ at the following address:
 
 ## Important dates
 
-- Submission deadline: ~~30 May 2025~~ extended 6 June 2025
+- Submission deadline: ~~30 May 2025~~ extended to 6 June 2025
 - Acceptance notification: 4 July 2025
 - Camera-ready deadline: 25 July 2025
 - Early registration deadline: 25 July 2025
