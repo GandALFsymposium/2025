@@ -18,8 +18,8 @@ at the following address:
 
 - Submission deadline: ~~30 May 2025~~ extended to 6 June 2025
 - Acceptance notification: 4 July 2025
-- Camera-ready deadline: 25 July 2025
 - Early registration deadline: 25 July 2025
+- Camera-ready deadline: 8 August 2025
 - Conference dates: 16-17 September 2025
 
 All deadlines are [AoE](https://time.is/Anywhere_on_Earth).
