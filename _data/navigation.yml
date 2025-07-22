@@ -1,6 +1,8 @@
 main:
   - title: "Registration"
     url: /registration/
+  - title: "Invited Speakers"
+    url: /invited/
   - title: "Program"
     url: /program/
   - title: "Venue"
@@ -9,5 +11,4 @@ main:
     url: /cfp/
   - title: "Committees"
     url: /committees/
-  - title: "Invited Speakers"
-    url: /invited/
+  
