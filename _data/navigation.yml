@@ -9,3 +9,5 @@ main:
     url: /cfp/
   - title: "Committees"
     url: /committees/
+  - title: "Invited Speakers"
+    url: /invited/

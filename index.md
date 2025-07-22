@@ -20,7 +20,7 @@ Welcome to the website of **GandALF 2025**, the
 that will take place in Valletta, Malta, on 16-17 September 2025. 
 The conference will be hosted by [University of Malta](https://www.um.edu.mt/) at its [Valletta Campus](https://www.um.edu.mt/campuses/valletta/) and it is organized by the [Department of Computer Science](https://www.um.edu.mt/ict/cs/).
 
-News! **Submission deadline extended to 6 June 2025** (see [call for papers](https://gandalfsymposium.github.io/2025/cfp/)).
+News! **Symposium registrations now open (early bird deadline July 30)** (see [call for papers](https://gandalfsymposium.github.io/2025/cfp/)).
 
 The aim of GandALF 2025 is to bring together researchers from academia and industry 
 who are actively working in the fields of Games, Automata, Logics, and Formal Verification. 
