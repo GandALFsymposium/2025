@@ -4,7 +4,8 @@ title: "Invited Speakers"
 ---
 
 
-## [Radu Mardare](https://www.macs.hw.ac.uk/~rm4023/) 
+## <img src="{{ site.url }}{{ site.baseurl }}/assets/images/radu.png" alt="Radu Mardare" width="100"/>
+&emsp;[Radu Mardare](https://www.macs.hw.ac.uk/~rm4023/) 
 _(Heriot-Watt University, Scotland)_
 
 Radu Mardare is a Professor at the School of Mathematics and Computer Sciences, Heriot-Watt University, Edinburgh, Scotland. Prior to this, I was a Professor at University of Strathclyde (Glasgow, Scotland), at Aalborg University (Denmark), a researcher at the Microsoft Research CoSBi Centre (Italy) and at University of Trento (Italy). Mardare is an active researcher in the field of semantics where he advocates a combined used of logics, model theory and continuous mathematics.
