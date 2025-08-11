@@ -10,7 +10,7 @@ title: "Program"
 |Time | Activity |
 |:---:|:---:|
 |*08.30-09.00*| *welcome* |
-|**09.00-10.00**| [Mailbox Types: From Processes to Programming](invited/#mailbox-types-from-processes-to-programming) | 
+|**09.00-10.00**| [Mailbox Types: From Processes to Programming](https://gandalfsymposium.github.io/2025/invited/#mailbox-types-from-processes-to-programming) | 
 |*10:00-10:30*| *break* |
 |**10.30-11.00**| The Complexity of Deciding Characteristic Formulae Modulo Nested Simulation | 
 |**11.00-11.30**| Parallelizable Feynman-Kac models for universal probabilistic programming | 
@@ -26,7 +26,7 @@ title: "Program"
 
 |Time | Activity |
 |:---:|:---:|
-|**09.00-10.00**| [Quantitative Algebraic Reasoning](invited/#quantitative-algebraic-reasoning) | 
+|**09.00-10.00**| [Quantitative Algebraic Reasoning](https://gandalfsymposium.github.io/2025/invited/#quantitative-algebraic-reasoning) | 
 |*10:00-10:30*| *break* |
 |**10.30-11.00**| Automaton-based Characterisation of First Order Logic over Infinite Trees | 
 |**11.00-11.30**| The Complexity of Pure Strategy Relevant Equilibria in Concurrent Games | 
