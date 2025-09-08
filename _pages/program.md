@@ -19,7 +19,7 @@ title: "Program"
 |**13.30-14.00**| Generalised Reachability Games Revisited | 
 |**14.00-14.30**| Sound Value Iteration for Simple Stochastic Games | 
 |**14.30-15.00**| How Concise are Chains of co-Büchi Automata? | 
-|**15.00-15.30**| Metric Equational Theories | 
+|**15.00-15.30**| Automaton-based Characterisation of First Order Logic over Infinite Trees | 
 
 
 ## Wednesday 17 September
@@ -28,7 +28,7 @@ title: "Program"
 |:---:|:---:|
 |**09.00-10.00**| [Quantitative Algebraic Reasoning](https://gandalfsymposium.github.io/2025/invited#quantitative-algebraic-reasoning) | 
 |*10:00-10:30*| *break* |
-|**10.30-11.00**| Automaton-based Characterisation of First Order Logic over Infinite Trees | 
+|**10.30-11.00**| Metric Equational Theories | 
 |**11.00-11.30**| The Complexity of Pure Strategy Relevant Equilibria in Concurrent Games | 
 |**11.30-12.00**| Generating Plans for Belief-Desire-Intention (BDI) Agents Using Alternating-Time Temporal Logic (ATL) | 
 |*12.00-12.10*| *closing* |
