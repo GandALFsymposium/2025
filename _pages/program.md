@@ -36,7 +36,7 @@ title: "Program"
 
 <!-- The conference program will be announced after the paper notifications.-->
 
-## List of accepted papers
+### List of accepted papers
 - Dylan Leveille, *Generating Plans for Belief-Desire-Intention (BDI) Agents Using Alternating-Time Temporal Logic (ATL)*
 - Luca Aceto, Antonis Achilleos, Aggeliki Chalki, and Anna Ingolfsdottir, *The Complexity of Deciding Characteristic Formulae Modulo Nested Simulation*
 - Purandar Bhaduri, *The Complexity of Pure Strategy Relevant Equilibria in Concurrent Games*
