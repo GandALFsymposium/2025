@@ -3,7 +3,9 @@ permalink: /program/
 title: "Program"
 ---
 
+## Monday 15 September
 
+Informal meet up at [67 Kapitali](https://maps.app.goo.gl/UcfEHTvG6eQ4JdMT9) around 20.30 for a drink and a chat.
 
 ## Tuesday 16 September
 
@@ -20,6 +22,7 @@ title: "Program"
 |**14.00-14.30**| Sound Value Iteration for Simple Stochastic Games | 
 |**14.30-15.00**| How Concise are Chains of co-Büchi Automata? | 
 |**15.00-15.30**| Automaton-based Characterisation of First Order Logic over Infinite Trees | 
+|*10:00-10:30*| *Beach Excursion (packed lunch will be provided)* |
 
 
 ## Wednesday 17 September
