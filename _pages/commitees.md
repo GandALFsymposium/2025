@@ -40,8 +40,8 @@ title: "Committees"
 
 ## Organising Committee
 - Duncan Paul Attard (University of Malta)
-- Caroline Cucciardi (University of Malta) 
 - Adrian Francalanza (University of Malta)
 - Marietta Galea (University of Malta)
 - Gerard Tabone (University of Malta)
+- Gianluca Zahra (University of Malta)
 - Jasmine Xuereb (University of Malta)

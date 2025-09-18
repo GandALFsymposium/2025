@@ -51,9 +51,14 @@ The topics covered by the conference include, but are not limited to, the follow
 - Probabilistic Models (Markov Decision processes)
 - Program Analysis and Software Verification
 - Reinforcement Learning
-- Run-time Verification and Testing
+- Runtime Verification, Enforcement and Testing
 - Specification and Verification of Finite and Infinite-state Systems
 - Synthesis
+
+# Publication
+
+The proceedings for Gandalf25 have been published as  
+[EPTCS 428](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?GandALF25#EPTCS428.1).  They may also be accessed as one single pdf [here](https://cgi.cse.unsw.edu.au/~eptcs/Published/GandALF25/Proceedings.pdf)  
 
 # Invited speakers
 
