@@ -57,8 +57,8 @@ The topics covered by the conference include, but are not limited to, the follow
 
 # Publication
 
-The proceedings for Gandalf25 have been published as  
-[EPTCS 428](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?GandALF25#EPTCS428.1).  They may also be accessed as one single pdf [here](https://cgi.cse.unsw.edu.au/~eptcs/Published/GandALF25/Proceedings.pdf)  
+This year's proceedings have been published as  
+[EPTCS 428](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?GandALF25#EPTCS428.1).  They may also be accessed as one single pdf [here](https://cgi.cse.unsw.edu.au/~eptcs/Published/GandALF25/Proceedings.pdf).  
 
 # Invited speakers
 
